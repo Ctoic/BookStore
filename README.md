@@ -1,6 +1,16 @@
 
-  # Website Using Figma, Locofy and Netlify 
+ # Website Using Figma, Locofy and Netlify 
+ <p>
+ First I made the UI using figma and after creating the design I integrated figma with locofy which converts your UI into Code using AI technology. Finally I deployed my site on netlify For free. Follow the steps and make your own  webiste even if you have not coding experience .
+ </p>
   
+ 
+ ![Filofy](https://user-images.githubusercontent.com/90936436/223407068-0b7c3eff-2d3b-4638-934f-71f753c36cd2.png)
+
+ 
+ 
+ 
+ 
 ### Installation of Figma:
 <div>
 Go to Figma's website at figma.com
